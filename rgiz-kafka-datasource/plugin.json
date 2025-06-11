@@ -1,6 +1,6 @@
 {
     "name": "Kafka data source",
-    "id": "reginaldosilva1",
+    "id": "reginaldosilva1-kafka-datasource",
     "type": "datasource",
     "category": "iot",
     "streaming": true,
@@ -10,7 +10,7 @@
     "info": {
         "description": "Consumes events from Kafka topics so that the contents can be visualised in Grafana",
         "author": {
-            "name": "Dale Lane"
+            "name": "rgiz"
         },
         "keywords": [
             "datasource",
